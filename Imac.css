@@ -1,0 +1,10 @@
+h1{
+    color: rgb(254, 251, 250);
+    font-size: 100;
+}
+
+canvas{
+    border-radius: 12px;
+    border: 2px solid turquoise;
+    box-shadow: 4px 4px 304px rgb(255, 38, 0);
+ }

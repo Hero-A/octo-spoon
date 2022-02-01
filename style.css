@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.pic{
+    width: 12%;
+    height: 5%;
+    border-radius: 43;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    font-size: 100;
+}
